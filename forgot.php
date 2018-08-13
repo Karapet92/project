@@ -12,7 +12,7 @@ if(isset($_POST['login'])) {
         $b = range('a','z');
         $c = range("A","Z");
         $d = array_merge($a,$b,$c);
-        
+
         shuffle($d);
         $r = implode($d);
         $password = substr($r,5,10);
@@ -44,7 +44,7 @@ if(isset($_POST['login'])) {
                 <h2>Login</h2>
                 <p>Please enter your email</p>
             </div>
-            <form id="Login" method="post" action="forgot.php">
+            <form id="Login" method="post" action="">
 
                 <div class="form-group">
                     <input name="email" type="email" class="form-control" id="inputEmail" placeholder="Email Address">
