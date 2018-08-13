@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="283afcf7-bc1d-4e85-bf40-d96beb72d2e7" name="Default" comment="" />
+    <list default="true" id="283afcf7-bc1d-4e85-bf40-d96beb72d2e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forgot.php" afterPath="$PROJECT_DIR$/forgot.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -61,11 +63,11 @@
       <file leaf-file-name="forgot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/forgot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+            <state relative-caret-position="420">
+              <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
               <folding>
-                <marker date="1534154832651" expanded="true" signature="135:177" ph="SELECT * FRO... users" />
-                <marker date="1534154832651" expanded="true" signature="606:669" ph="UPDATE users... " />
+                <marker date="1534156545044" expanded="true" signature="135:177" ph="SELECT * FRO... users" />
+                <marker date="1534156545044" expanded="true" signature="615:678" ph="UPDATE users... " />
               </folding>
             </state>
           </provider>
@@ -230,6 +232,9 @@
       <find>title</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -285,6 +290,7 @@
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -381,12 +387,12 @@
       <workItem from="1533892057490" duration="4315000" />
       <workItem from="1534142917517" duration="288000" />
       <workItem from="1534143212347" duration="6063000" />
-      <workItem from="1534152332251" duration="2851000" />
+      <workItem from="1534152332251" duration="3387000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="118724000" />
+    <option name="totallyTimeSpent" value="119260000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -396,7 +402,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -760,11 +766,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forgot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="18" column="39" lean-forward="false" selection-start-line="18" selection-start-column="39" selection-end-line="18" selection-end-column="39" />
+        <state relative-caret-position="420">
+          <caret line="14" column="8" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
           <folding>
-            <marker date="1534154832651" expanded="true" signature="135:177" ph="SELECT * FRO... users" />
-            <marker date="1534154832651" expanded="true" signature="606:669" ph="UPDATE users... " />
+            <marker date="1534156545044" expanded="true" signature="135:177" ph="SELECT * FRO... users" />
+            <marker date="1534156545044" expanded="true" signature="615:678" ph="UPDATE users... " />
           </folding>
         </state>
       </provider>

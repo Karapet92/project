@@ -12,6 +12,7 @@ if(isset($_POST['login'])) {
         $b = range('a','z');
         $c = range("A","Z");
         $d = array_merge($a,$b,$c);
+        
         shuffle($d);
         $r = implode($d);
         $password = substr($r,5,10);
