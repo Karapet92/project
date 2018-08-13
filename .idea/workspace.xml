@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="283afcf7-bc1d-4e85-bf40-d96beb72d2e7" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/forgot.php" afterPath="$PROJECT_DIR$/forgot.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,11 +64,11 @@
       <file leaf-file-name="forgot.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/forgot.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="398">
-              <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+            <state relative-caret-position="368">
+              <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
               <folding>
-                <marker date="1534157171997" expanded="true" signature="135:177" ph="SELECT * FRO... users" />
-                <marker date="1534157171997" expanded="true" signature="607:670" ph="UPDATE users... " />
+                <marker date="1534157274902" expanded="true" signature="135:177" ph="SELECT * FRO... users" />
+                <marker date="1534157274902" expanded="true" signature="607:670" ph="UPDATE users... " />
               </folding>
             </state>
           </provider>
@@ -387,12 +388,12 @@
       <workItem from="1533892057490" duration="4315000" />
       <workItem from="1534142917517" duration="288000" />
       <workItem from="1534143212347" duration="6063000" />
-      <workItem from="1534152332251" duration="4013000" />
+      <workItem from="1534152332251" duration="4114000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="119886000" />
+    <option name="totallyTimeSpent" value="119987000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
@@ -766,11 +767,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/forgot.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="398">
-          <caret line="46" column="19" lean-forward="false" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
+        <state relative-caret-position="368">
+          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
           <folding>
-            <marker date="1534157171997" expanded="true" signature="135:177" ph="SELECT * FRO... users" />
-            <marker date="1534157171997" expanded="true" signature="607:670" ph="UPDATE users... " />
+            <marker date="1534157274902" expanded="true" signature="135:177" ph="SELECT * FRO... users" />
+            <marker date="1534157274902" expanded="true" signature="607:670" ph="UPDATE users... " />
           </folding>
         </state>
       </provider>
