@@ -44,6 +44,8 @@ if(isset($_POST['login'])) {
                 <h2>Login</h2>
                 <p>Please enter your email</p>
             </div>
+            <span> </span>
+
             <form id="Login" method="post" action="forgot.php">
 
                 <div class="form-group">
